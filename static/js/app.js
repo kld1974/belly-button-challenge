@@ -129,6 +129,8 @@ hoverinfo: 'text',
 showlegend: false
 };
 
+
+
 var gaugeData = [scatterData, pieData];
 
 var gaugeLayout = {
